@@ -1,0 +1,9 @@
+name: epftoolbox
+channels:
+  - defaults
+dependencies:
+  - python=3.11.5
+  - pip:
+    - pandas
+
+
